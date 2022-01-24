@@ -1,2 +1,2 @@
 # c-project
-Applications I made while learning C
+Some Applications I made while learning C
